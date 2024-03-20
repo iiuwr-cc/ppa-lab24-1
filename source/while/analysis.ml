@@ -1,7 +1,6 @@
 (*-----------------------------------------------------------------------------
- * Principles of Program Analysis - Labolatory
+ * Principles of Program Analysis - Laboratory
  *    University of Wroclaw, Institute of Computer Science
- *    contact: pawel.wieczorek(-at-symbol-)cs.uni.wroc.pl
  *---------------------------------------------------------------------------*)
 
 (* Module defines all interfaces required to implement and use the

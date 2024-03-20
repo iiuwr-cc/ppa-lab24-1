@@ -1,4 +1,4 @@
-Principles of Program Analysis -- Labolatory
+Principles of Program Analysis -- Laboratory
 ============================================
 
 
